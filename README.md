@@ -1,2 +1,2 @@
 # DL_ND_Project2
-Landmark Classification &amp; Tagging for Social Media
+Udacity Deep Learning Nanodegree Project 2: Landmark Classification &amp; Tagging for Social Media
